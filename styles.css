@@ -1,0 +1,53 @@
+html{
+background: rgb(2,0,36);
+background: linear-gradient(310deg, rgba(2,0,36,1) 0%, rgba(85,85,241,1) 53%);
+color:rgb(253, 252, 252);
+text-shadow: rgb(190, 242, 0) 1px 0 10px;
+text-align:center;
+}
+
+#image{
+  display:block;
+  height:auto;
+  max-width:100%;
+}
+
+#img-div{
+  display:block;
+  background:rgba(33, 17, 17, 0.7);
+ padding:10px;
+
+}
+
+
+#tribute-info {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+
+
+li {
+  margin: 10px 0;
+}
+
+
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+a {
+  color: #8acaff;
+}
+
+a:visited {
+  color: #c7c115;
+}
